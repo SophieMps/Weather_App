@@ -1,0 +1,99 @@
+body {
+  font-family: "PT Mono", monospace;
+  width: 100%;
+}
+.container {
+  max-width: 500px;
+  margin: auto;
+  background: #ffe9e3;
+}
+h1,
+h2 {
+  text-align: center;
+}
+form {
+  padding-top: 20px;
+  background: #ffe9e3;
+}
+.card {
+  text-align: center;
+  background: #c4c1e0;
+}
+.btn,
+.btn-primary {
+  background: #7c73e6;
+}
+
+#exampleInputLocation1 {
+  padding: 12px;
+}
+
+.card-body {
+  background: #c4c1e0;
+}
+.cardheader {
+  background: #ffe9e3;
+}
+.card-header {
+  background: #fafafa;
+}
+a {
+  color: gray;
+  text-decoration: none;
+  font-weight: bold;
+  transition: (all 200ms ease);
+}
+#card-text-temp {
+  font-weight: bold;
+  font-size: 20px;
+}
+a:hover {
+  color: gray;
+}
+body {
+  font-family: "PT Mono", monospace;
+  width: 100%;
+}
+.container {
+  max-width: 500px;
+  margin: auto;
+  background: #ffe9e3;
+}
+h1,
+h2 {
+  text-align: center;
+}
+form {
+  padding-top: 20px;
+  background: #ffe9e3;
+}
+.card {
+  text-align: center;
+  background: #c4c1e0;
+}
+.btn,
+.btn-primary {
+  background: #7c73e6;
+}
+.card-body {
+  background: #c4c1e0;
+}
+.cardheader {
+  background: #ffe9e3;
+}
+.card-header {
+  background: #fafafa;
+}
+a {
+  color: gray;
+  text-decoration: none;
+  font-weight: bold;
+  transition: (all 200ms ease);
+}
+#card-text-temp {
+  font-weight: bold;
+  font-size: 20px;
+}
+a:hover {
+  color: gray;
+}
